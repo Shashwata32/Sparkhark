@@ -1,2 +1,2 @@
 # Sparkhark
-This is for hackathon of convulotion
+This is for hackathon of convolution
