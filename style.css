@@ -212,7 +212,7 @@ ul{
   position: relative;
   justify-content: space-between;
   min-width: 15vh;
-  font-weight: 500;
+  font-weight: bold;
   font-size: larger;
 }
 .arrow{
