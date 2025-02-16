@@ -1,2 +1,2 @@
-# Sparkhark
-This is for hackathon of convolution
+# Sparkhack
+This is for hackathon of convolution made by Swastik, Shashwata, Rohan and Debdeep on the topic healthcare
